@@ -3,6 +3,7 @@
   "author": "Robert Borghese",
   "main": "bot.js",
   "scripts": {"start": "node bot.js"},
+  "start": "node bot.js",
   "version": "1.6.10",
   "dependencies": {
     "discord.js": "^12.2.0",
